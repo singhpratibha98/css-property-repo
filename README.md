@@ -1,1 +1,11 @@
-git hub repo link: 
+git hub repo link: https://github.com/singhpratibha98/css-property-repo
+![weekely test assingment -3 (css property)(html)(1)](https://github.com/singhpratibha98/css-property-repo/assets/129493126/85f6ae19-b61f-46c6-a9a6-edbce5be6507)
+![weekely test assingment -3 (css property)(html)(2)](https://github.com/singhpratibha98/css-property-repo/assets/129493126/80e919ff-0e3f-4ac5-8ca7-1246cb367b1d)
+![weekely test assingment -3 (css property)(html)(3)](https://github.com/singhpratibha98/css-property-repo/assets/129493126/0e7037ae-18d3-41a1-88a1-63b2f7cba8a7)
+![weekely test assingment -3 (css property)(html)(4)](https://github.com/singhpratibha98/css-property-repo/assets/129493126/034f24bb-b61f-46d6-90ad-9383bfd36637)
+![weekely test assingment -3 (css property)(css)(1)](https://github.com/singhpratibha98/css-property-repo/assets/129493126/6604008d-5a48-4e9f-a52f-07d9b593b27a)
+![weekely test assingment -3 (css property)(css)(2)](https://github.com/singhpratibha98/css-property-repo/assets/129493126/e969ccd3-a140-4126-a30f-291a29f64da9)
+![weekely test assingment -3 (css property)(css)(3)](https://github.com/singhpratibha98/css-property-repo/assets/129493126/ecd53418-c44b-40d6-aeaf-0a8d840d6e42)
+![weekely test assingment -3 (css property)(css)(4)](https://github.com/singhpratibha98/css-property-repo/assets/129493126/e212e535-4cfb-47cf-bafd-3ec091dd123d)
+![weekely test assingment -3 (css property)(css)(5)](https://github.com/singhpratibha98/css-property-repo/assets/129493126/83aa45f5-d812-4b7c-abd8-65cd61ca4f2f)
+![weekely test assingment -3 (css property)(css)(6)](https://github.com/singhpratibha98/css-property-repo/assets/129493126/73a7f7e4-dc2e-4126-bbe1-e7fc56092a2c)
